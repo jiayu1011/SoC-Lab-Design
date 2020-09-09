@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\xin\Desktop\CS_Design\ex2_2\Top.ncd
+OUTFILE=C:\Users\xin\Desktop\CS_Design\ex2_2\Top.bit
+FAMILY=Kintex7
+PART=xc7k160t-2lffg676
+WORKINGDIR=C:\Users\xin\Desktop\CS_Design\ex2_2
+LICENSE=WebPack
+USER_INFO=__0_0_0

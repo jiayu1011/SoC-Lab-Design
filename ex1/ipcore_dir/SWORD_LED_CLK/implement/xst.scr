@@ -1,0 +1,9 @@
+run
+-ifmt MIXED
+-top SWORD_LED_CLK_exdes
+-p xa7a100t-csg324-2i
+-ifn xst.prj
+-ofn SWORD_LED_CLK_exdes
+-keep_hierarchy soft 
+-equivalent_register_removal no 
+-max_fanout 65535

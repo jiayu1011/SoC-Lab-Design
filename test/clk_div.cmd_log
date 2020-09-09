@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/xin/Desktop/CS_Design/test/clk_div.xst" -ofn "C:/Users/xin/Desktop/CS_Design/test/clk_div.syr" 

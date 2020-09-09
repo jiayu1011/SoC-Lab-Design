@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated   -->
+<!--     by the Xilinx ISE software.  Any direct editing or        -->
+<!--     changes made to this file may result in unpredictable     -->
+<!--     behavior or data corruption.  It is strongly advised that -->
+<!--     users do not edit the contents of this file.              -->
+<!--                                                               -->
+<!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
+
+<messages>
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/xin/Desktop/CS_Design/ex5/Counter_3_IO.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/xin/Desktop/CS_Design/ex5/MIO_BUS_IO.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/xin/Desktop/CS_Design/ex5/Multi_8CH32_IO.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/xin/Desktop/CS_Design/ex5/PCPU.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/xin/Desktop/CS_Design/ex5/PCPU.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/xin/Desktop/CS_Design/ex4_num/alu.v&apos; in file &quot;C:/Users/xin/Desktop/CS_Design/ex5/PCPU.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/xin/Desktop/CS_Design/ex5/alu.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/xin/Desktop/CS_Design/ex4_num/ctrl_encode_def.v&apos; in file &quot;C:/Users/xin/Desktop/CS_Design/ex5/alu.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/xin/Desktop/CS_Design/ex5/PCPU.v</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/xin/Desktop/CS_Design/ex4_num/ctrl_encode_def.v&apos; in file &quot;C:/Users/xin/Desktop/CS_Design/ex5/PCPU.v&quot; line 2
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/xin/Desktop/CS_Design/ex5/PCPU.v</arg>&quot; Line <arg fmt="%d" index="2">3</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/xin/Desktop/CS_Design/ex4_num/EXT.v&apos; in file &quot;C:/Users/xin/Desktop/CS_Design/ex5/PCPU.v&quot; line 3
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/xin/Desktop/CS_Design/ex5/PCPU.v</arg>&quot; Line <arg fmt="%d" index="2">4</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/xin/Desktop/CS_Design/ex4_num/mux.v&apos; in file &quot;C:/Users/xin/Desktop/CS_Design/ex5/PCPU.v&quot; line 4
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/xin/Desktop/CS_Design/ex5/PCPU.v</arg>&quot; Line <arg fmt="%d" index="2">5</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/xin/Desktop/CS_Design/ex4_num/PC.v&apos; in file &quot;C:/Users/xin/Desktop/CS_Design/ex5/PCPU.v&quot; line 5
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/xin/Desktop/CS_Design/ex5/PCPU.v</arg>&quot; Line <arg fmt="%d" index="2">6</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/xin/Desktop/CS_Design/ex4_num/RF.v&apos; in file &quot;C:/Users/xin/Desktop/CS_Design/ex5/PCPU.v&quot; line 6
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/xin/Desktop/CS_Design/ex5/PCPU.v</arg>&quot; Line <arg fmt="%d" index="2">7</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/xin/Desktop/CS_Design/ex4_num/IM.v&apos; in file &quot;C:/Users/xin/Desktop/CS_Design/ex5/PCPU.v&quot; line 7
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/xin/Desktop/CS_Design/ex5/PCPU.v</arg>&quot; Line <arg fmt="%d" index="2">8</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/xin/Desktop/CS_Design/ex4_num/DM.v&apos; in file &quot;C:/Users/xin/Desktop/CS_Design/ex5/PCPU.v&quot; line 8
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/xin/Desktop/CS_Design/ex5/DM.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/xin/Desktop/CS_Design/ex4_num/ctrl_encode_def.v&apos; in file &quot;C:/Users/xin/Desktop/CS_Design/ex5/DM.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/xin/Desktop/CS_Design/ex5/PCPU.v</arg>&quot; Line <arg fmt="%d" index="2">9</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/xin/Desktop/CS_Design/ex4_num/Control.v&apos; in file &quot;C:/Users/xin/Desktop/CS_Design/ex5/PCPU.v&quot; line 9
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/xin/Desktop/CS_Design/ex5/Control.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/xin/Desktop/CS_Design/ex4_num/ctrl_encode_def.v&apos; in file &quot;C:/Users/xin/Desktop/CS_Design/ex5/Control.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/xin/Desktop/CS_Design/ex5/PCPU.v</arg>&quot; Line <arg fmt="%d" index="2">10</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/xin/Desktop/CS_Design/ex4_num/Adder_PCPlus4.v&apos; in file &quot;C:/Users/xin/Desktop/CS_Design/ex5/PCPU.v&quot; line 10
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/xin/Desktop/CS_Design/ex5/PCPU.v</arg>&quot; Line <arg fmt="%d" index="2">11</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/xin/Desktop/CS_Design/ex4_num/Branch_Jump_Detect.v&apos; in file &quot;C:/Users/xin/Desktop/CS_Design/ex5/PCPU.v&quot; line 11
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/xin/Desktop/CS_Design/ex5/Branch_Jump_Detect.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/xin/Desktop/CS_Design/ex4_num/ctrl_encode_def.v&apos; in file &quot;C:/Users/xin/Desktop/CS_Design/ex5/Branch_Jump_Detect.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/xin/Desktop/CS_Design/ex5/PCPU.v</arg>&quot; Line <arg fmt="%d" index="2">12</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/xin/Desktop/CS_Design/ex4_num/BranchAdd.v&apos; in file &quot;C:/Users/xin/Desktop/CS_Design/ex5/PCPU.v&quot; line 12
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/xin/Desktop/CS_Design/ex5/PCPU.v</arg>&quot; Line <arg fmt="%d" index="2">13</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/xin/Desktop/CS_Design/ex4_num/EXMEMReg.v&apos; in file &quot;C:/Users/xin/Desktop/CS_Design/ex5/PCPU.v&quot; line 13
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/xin/Desktop/CS_Design/ex5/PCPU.v</arg>&quot; Line <arg fmt="%d" index="2">14</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/xin/Desktop/CS_Design/ex4_num/ForwardUnit.v&apos; in file &quot;C:/Users/xin/Desktop/CS_Design/ex5/PCPU.v&quot; line 14
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/xin/Desktop/CS_Design/ex5/ForwardUnit.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/xin/Desktop/CS_Design/ex4_num/ctrl_encode_def.v&apos; in file &quot;C:/Users/xin/Desktop/CS_Design/ex5/ForwardUnit.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/xin/Desktop/CS_Design/ex5/PCPU.v</arg>&quot; Line <arg fmt="%d" index="2">15</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/xin/Desktop/CS_Design/ex4_num/Hazard_Detect.v&apos; in file &quot;C:/Users/xin/Desktop/CS_Design/ex5/PCPU.v&quot; line 15
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/xin/Desktop/CS_Design/ex5/Hazard_Detect.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/xin/Desktop/CS_Design/ex4_num/ctrl_encode_def.v&apos; in file &quot;C:/Users/xin/Desktop/CS_Design/ex5/Hazard_Detect.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/xin/Desktop/CS_Design/ex5/PCPU.v</arg>&quot; Line <arg fmt="%d" index="2">16</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/xin/Desktop/CS_Design/ex4_num/IDEXReg.v&apos; in file &quot;C:/Users/xin/Desktop/CS_Design/ex5/PCPU.v&quot; line 16
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/xin/Desktop/CS_Design/ex5/PCPU.v</arg>&quot; Line <arg fmt="%d" index="2">17</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/xin/Desktop/CS_Design/ex4_num/IFIDReg.v&apos; in file &quot;C:/Users/xin/Desktop/CS_Design/ex5/PCPU.v&quot; line 17
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/xin/Desktop/CS_Design/ex5/PCPU.v</arg>&quot; Line <arg fmt="%d" index="2">18</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/xin/Desktop/CS_Design/ex4_num/JumpAddress.v&apos; in file &quot;C:/Users/xin/Desktop/CS_Design/ex5/PCPU.v&quot; line 18
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/xin/Desktop/CS_Design/ex5/PCPU.v</arg>&quot; Line <arg fmt="%d" index="2">19</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/xin/Desktop/CS_Design/ex4_num/MEMWBReg.v&apos; in file &quot;C:/Users/xin/Desktop/CS_Design/ex5/PCPU.v&quot; line 19
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/xin/Desktop/CS_Design/ex5/Register.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/xin/Desktop/CS_Design/ex5/SAnti_jitter_IO.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/xin/Desktop/CS_Design/ex5/SEnter_2_32_IO.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/xin/Desktop/CS_Design/ex5/SPIO_IO.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/xin/Desktop/CS_Design/ex5/SSeg7_Dev_IO.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/xin/Desktop/CS_Design/ex5/Top.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/xin/Desktop/CS_Design/ex5/clk_div.v&quot; into library work</arg>
+</msg>
+
+</messages>
+

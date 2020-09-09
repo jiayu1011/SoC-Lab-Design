@@ -1,0 +1,20 @@
+#œ‘ æµÿ÷∑ 0x80000000
+j start
+addi $zero, $zero, 0x0
+
+start:
+lui $a0, 0xe000
+add $v0, $zero, $zero   #v0=0
+add $v1, $zero, $zero   #v1=0
+addi $a1, $zero, 0x14   #a1=20
+add $a2, $zero, $zero   #a2=0
+
+loop:
+add $v0, $zero, $zero
+lw $v0, 0($v1)
+sw $v0, 0($a0)
+
+addi $v1, $v1, 0x4      #v1+=4
+addi $a2, $a2, 0x1      #a2+=1
+bne $a1, $a2, loop      #if(a2!=20) branch 
+

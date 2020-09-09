@@ -1,0 +1,8 @@
+memory_initialization_radix=16;
+memory_initialization_vector=
+f0000000, 000002AB, 80000000, 0000003F, 00000001, FFF70000, 0000FFFF, 80000000, 20000000, 20000000, 
+20100000, 20180000, 20183000, 20183050, 20183058, 77777777, 88888888, 99999999, aaaaaaaa, bbbbbbbb, 
+cccccccc, dddddddd, eeeeeeee, ffffffff, dd524105, dd524105, ff7e67ef, ff7ea7ef, ff7ec7ef, fd7c67ce, 
+aaffefee, aaffdfbd, aaffbefb, aaff7bf7, aafff3f7, aa3f7fff, 2a7f7fff, cadfbfff, f2f7dfff, fcfdefff,
+03bdf020, 03def820, 08002300;
+
